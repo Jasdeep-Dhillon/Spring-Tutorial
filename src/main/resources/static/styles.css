@@ -1,0 +1,9 @@
+body {
+    background: aliceblue;
+}
+
+div {
+    margin: 2rem;
+    padding: 1rem;
+    border: 1px solid black;
+}
